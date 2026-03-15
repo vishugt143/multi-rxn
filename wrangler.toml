@@ -1,0 +1,11 @@
+name = "reaction-worker"
+main = "worker.js"
+compatibility_date = "2026-03-16"
+
+# (optional) environment variables can be set via 'wrangler secret' or dashboard
+[vars]
+# leave blank if using secrets
+# FIREBASE_DB_URL = ""
+# FIREBASE_SECRET = ""
+# DEFAULT_DELAY_BETWEEN_REACTIONS = "800"
+# INITIAL_WAIT_BEFORE_REACTIONS = "700"
