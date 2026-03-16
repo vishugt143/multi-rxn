@@ -1,6 +1,6 @@
 name = "reaction-worker"
 main = "worker.js"
-compatibility_date = "2025-03-14"
+compatibility_date = "2024-01-01"
 
 # (optional) environment variables can be set via 'wrangler secret' or dashboard
 [vars]
